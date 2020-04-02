@@ -1,0 +1,499 @@
+{
+  "feature": {
+    "makeup": "false",
+    "isVirtualRechargeItem": "false",
+    "isDonateItem": "false",
+    "bSeller": "true",
+    "useMeiLiHuiPrice": "false",
+    "o2O": "false",
+    "showCommonBanner": "false",
+    "tmallSupermarket": "true",
+    "isJuPinTuan": "false",
+    "sellCountAntiCreep": "true",
+    "nabundleItem": "false",
+    "hasSku": "false",
+    "bundleItem": "false",
+    "wygProtect": "true",
+    "hasCartRecommend": "false",
+    "hasBrandScene": "true",
+    "fmcgRecommend": "false",
+    "superActTime": "false",
+    "isXinxuan": "false",
+    "notUseVip95CardBar": "false",
+    "hasApparelIcon": "false",
+    "openGradient": "true",
+    "isCloudChanger": "false",
+    "overSeaBuy": "false",
+    "wygItem": "true",
+    "hasIntervalPrice": "true",
+    "isDamai": "false",
+    "waitForStart": "false",
+    "newAddress": "true",
+    "hideSMww": "true",
+    "renovation": "false",
+    "hasAddCartCoudan": "false",
+    "showCuntaoTag": "false",
+    "recommendReason": "false",
+    "switchToOldApp": "false",
+    "hideShopDsr": "false",
+    "pricedCoupon": "false",
+    "hasCoupon": "false",
+    "buhuo": "false",
+    "cainiaoNoramal": "true",
+    "showNewPersonBag": "false",
+    "showSku": "false",
+    "showShopCard": "false",
+    "showYaoDai": "false",
+    "showLiteAppRec": "false",
+    "showTmallApp": "true",
+    "hasNewCombo": "false",
+    "noShareGroup": "true",
+    "hideWangwang": "true",
+    "showInteractionBar": "true",
+    "showSkuProRate": "false",
+    "hasAddTmallCartCoudan": "true",
+    "useVip95CardStyle": "false",
+    "multistage": "false",
+    "hasQualification": "false",
+    "isTspace": "false",
+    "series": "false",
+    "isTTSale": "false",
+    "shareGroup": "false",
+    "showSMww": "false",
+    "isShopVipMember": "false",
+    "includeSkuData": "true"
+  },
+  "trade": {
+    "buyEnable": "false",
+    "useWap": "true",
+    "redirectUrl": "//detail.m.tmall.com/item.htm?id=556280006448&hybrid=true",
+    "buyParam": {
+      "tpId": "725677994",
+      "areaId": "110101"
+    },
+    "tradeParams": {},
+    "isWap": "false",
+    "cartEnable": "true",
+    "cartParam": {
+      "tpId": "725677994",
+      "areaId": "110101"
+    },
+    "outerCartParam": {},
+    "cartConfirmEnable": "true",
+    "reason": "按照商品tag：513降级"
+  },
+  "item": {
+    "sellCount": "212293",
+    "vagueSellCount": "20万+",
+    "attraction50": "内含20包 香醇巧克力 酥脆脆米",
+    "skuText": "配送至:东城区",
+    "videos": [{
+      "url": "https://cloud.video.taobao.com/play/u/725677994/p/2/e/6/t/1/50226758088.mp4?appKey=7596",
+      "type": "2",
+      "videoThumbnailURL": "https://img.alicdn.com/imgextra/i3/725677994/O1CN01mvirdX28vIgPQ5fli_!!725677994-0-sm.jpg",
+      "spatialVideoDimension": "16:9",
+      "videoId": "50226758088",
+      "weexRecommendUrl": "https://market.m.taobao.com/apps/market/detailrax/recommend-items.html?spm=a2116h.app.0.0.16d957e9U2bxVj&wh_weex=true&itemId=556280006448"
+    }],
+    "themeType": "theme8",
+    "infoText": {},
+    "spuId": "865028950",
+    "titleIcon": "//gw.alicdn.com/tps/i1/T1AV5DFSRbXXbaUxfe-36-32.png",
+    "itemId": "556280006448",
+    "itemPoint": "1",
+    "descType": "2",
+    "title": "印尼进口Tango咔咔脆巧克力夹心威化饼干160g曲奇休闲网红零食"
+  },
+  "buyer": {
+    "tmallMemberLevel": "0"
+  },
+  "price": {
+    "shopProm": [{
+      "activityId": "8481280985",
+      "iconText": "促销",
+      "title": "满减活动",
+      "period": "2019.06.01-2019.06.05",
+      "content": ["满99元,省40元", "满199元,省95元"],
+      "contentText": "满99元,省40元;满199元,省95元",
+      "actionUrl": "https://pages.tmall.com/wow/chaoshi/act/chaoshi-offer?sceneCode=supermarket&pageType=discout&id=8481280985&sellerId=725677994",
+      "uuid4Cal": "8481280985",
+      "type": "3"
+    }],
+    "transmitPrice": {
+      "priceText": "19.9",
+      "sugProm": "false"
+    },
+    "shopPromTitle": "促销",
+    "superMarketShopProm": [{
+      "activityId": "8481280985",
+      "iconText": "促销",
+      "title": "满减活动",
+      "period": "2019.06.01-2019.06.05",
+      "content": ["满99元,省40元", "满199元,省95元"],
+      "contentText": "满99元,省40元;满199元,省95元",
+      "actionUrl": "https://pages.tmall.com/wow/chaoshi/act/chaoshi-offer?sceneCode=supermarket&pageType=discout&id=8481280985&sellerId=725677994",
+      "uuid4Cal": "8481280985",
+      "type": "3"
+    }],
+    "price": {
+      "priceText": "19.9",
+      "sugProm": "false"
+    },
+    "priceTag": [{
+      "text": "超市推荐",
+      "bigmarkdownTag": "false"
+    }]
+  },
+  "consumerProtection": {
+    "special": {
+      "logo": "//gw.alicdn.com/tfs/TB1upX9PCzqK1RjSZPxXXc4tVXa-390-64.png",
+      "text": "品质优选·便捷物流·全程服务",
+      "logoForGuarantee": "//gw.alicdn.com/tfs/TB1dO06O3HqK1RjSZFEXXcGMXXa-183-36.png",
+      "items": []
+    },
+    "displayService": {
+      "id": "155",
+      "name": "基础保障",
+      "description": "品质优选·便捷物流·全程服务",
+      "icon": "//gw.alicdn.com/tfs/TB1hKYxKmzqK1RjSZFjXXblCFXa-400-64.png",
+      "link": "//pages.tmall.com/wow/fuwu/act/wyg?wh_biz=tm",
+      "wyg": "true",
+      "services": [{
+        "name": "天猫直送",
+        "desc": ["天猫保障的配送服务"],
+        "icon": "//gw.alicdn.com/tfs/TB1jCNPN3DqK1RjSZSyXXaxEVXa-64-64.png",
+        "priority": "9223372036854775807"
+      }, {
+        "serviceId": "3839",
+        "name": "正品保证",
+        "desc": ["商品支持正品保障服务"],
+        "icon": "//gw.alicdn.com/tfs/TB1.8myOVzqK1RjSZFCXXbbxVXa-64-64.png",
+        "priority": "12900"
+      }, {
+        "serviceId": "3025",
+        "name": "满88包邮",
+        "desc": ["单笔订单20kg(含)以内,且实付订单金额 ≥88元免运费"],
+        "icon": "//gw.alicdn.com/tfs/TB1.8myOVzqK1RjSZFCXXbbxVXa-64-64.png",
+        "priority": "11500"
+      }, {
+        "serviceId": "3024",
+        "name": "一站式购齐",
+        "desc": ["超市万件商品随心挑,一站式购物体验"],
+        "icon": "//gw.alicdn.com/tfs/TB1.8myOVzqK1RjSZFCXXbbxVXa-64-64.png",
+        "priority": "11288"
+      }, {
+        "serviceId": "5306",
+        "name": "破损包退",
+        "desc": ["签收72小时(食品24小时)内,发现商品破损/漏液,天猫超市承诺24小时内处理,信用评级好用户享受极速退.同时针对发生破损的订单,天猫超市会在三个工作日内向客户赔付10元无门槛店铺优惠券."],
+        "icon": "//gw.alicdn.com/tfs/TB1.8myOVzqK1RjSZFCXXbbxVXa-64-64.png",
+        "link": "//pages.tmall.com/wow/fuwu/act/wyg-new?serviceCode=mcpsbt",
+        "priority": "7785"
+      }, {
+        "serviceId": "2966",
+        "name": "极速退款",
+        "desc": ["极速退款是为诚信会员提供的退款退货流程的专享特权额度是根据每个用户当前的信誉评级情况而定"],
+        "icon": "//gw.alicdn.com/tfs/TB1.8myOVzqK1RjSZFCXXbbxVXa-64-64.png",
+        "priority": "6505"
+      }, {
+        "serviceId": "2972",
+        "name": "七天无理由退换",
+        "desc": ["消费者在满足7天无理由退换货申请条件的前提下,可以提出“7天无理由退换货”的申请"],
+        "icon": "//gw.alicdn.com/tfs/TB1.8myOVzqK1RjSZFCXXbbxVXa-64-64.png",
+        "priority": "5130"
+      }]
+    },
+    "items": [{
+      "serviceId": "3838",
+      "title": "正品保证",
+      "desc": "商品支持正品保障服务",
+      "type": "0",
+      "priority": "12900"
+    }, {
+      "serviceId": "3026",
+      "title": "满88包邮",
+      "type": "0",
+      "priority": "11500"
+    }, {
+      "serviceId": "3027",
+      "title": "一站式购齐",
+      "type": "0",
+      "priority": "11288"
+    }, {
+      "serviceId": "5306",
+      "title": "破损包退",
+      "desc": "签收72小时(食品24小时)内,发现商品破损/漏液,天猫超市承诺24小时内处理,信用评级好用户享受极速退.同时针对发生破损的订单,天猫超市会在三个工作日内向客户赔付10元无门槛店铺优惠券.",
+      "type": "0",
+      "priority": "7785"
+    }, {
+      "serviceId": "2979",
+      "title": "极速退款",
+      "desc": "极速退款是为诚信会员提供的退款退货流程的专享特权，额度是根据每个用户当前的信誉评级情况而定",
+      "type": "0",
+      "priority": "6505"
+    }, {
+      "serviceId": "2973",
+      "title": "七天退换",
+      "desc": "消费者保障服务，卖家承诺7天退换",
+      "type": "0",
+      "priority": "5130"
+    }],
+    "passValue": "none",
+    "params": "175:5306;155:3838,3026,3027,2979,2973",
+    "channel": {
+      "logo": "//gw.alicdn.com/tfs/TB1N_qLmvDH8KJjy1XcXXcpdXXa-740-63.png",
+      "forced": "true"
+    },
+    "strength": "normal"
+  },
+  "resource": {
+    "entrances": {
+      "tmallFeature": {
+        "icon": "https://gw.alicdn.com/tfscom/TB1fD1eX3DqK1RjSZSyXXaxEVXa.png?getAvatar=avatar",
+        "text": "去天猫APP下单可兑农场水果",
+        "link": "https://pages.tmall.com/wow/mit/act/download?firstModule=4&mmstat=tbdetail&needDownload=0&src=tbdetail&dl_redirect=https%3A%2F%2Fdetail.tmall.com%2Fitem.htm%3Fut_sk1%3D5.21646297.tb.third-tbdetail-1%26_ns%3D1%26soureChannel%3DappJinXuan%26id%3D556280006448",
+        "title": "天猫APP精选",
+        "spm": "a2141.7631564.11166581",
+        "bizKey": "appJinXuan"
+      }
+    },
+    "entrancesBizsContent": "appJinXuan",
+    "coupon": {},
+    "share": {
+      "name": "分享",
+      "iconType": "1",
+      "params": {
+        "iconFont": "ꄪ",
+        "iconColor": "#999999"
+      }
+    },
+    "promsCalcInfo": {
+      "cheapestMoney": "0",
+      "hasCoupon": "false",
+      "needReqCouDan": "false"
+    }
+  },
+  "vertical": {
+    "supermarket": {
+      "categoryUrl": "https://www.tmall.com/market/chaoshi/chaoshi-cat-native.php",
+      "cartUrl": "https://cart.m.tmall.com/cart/myCart.htm?cartfrom=tmall_supermarket&tp_id=725677994",
+      "hideBuy": "true",
+      "supportMakeUpOrder": "false",
+      "homePageUrl": "https://chaoshi.m.tmall.com/",
+      "tpId": "725677994"
+    },
+    "interactionBar": {
+      "kapContain": {
+        "suffix": "人赞过",
+        "count": "1123",
+        "likeList": "https://pages.tmall.com/wow/malldetail/act/detail-likelist?wh_biz=tm&wh_weex=true&itemId=556280006448",
+        "kaplist": [{
+          "selected": "false",
+          "icon": "https://gw.alicdn.com/tfs/TB1rGtkvpzqK1RjSZFvXXcB7VXa-90-90.png?getAvatar=avatar",
+          "selectIcon": "https://gw.alicdn.com/tfs/TB193NrvAzoK1RjSZFlXXai4VXa-90-90.png?getAvatar=avatar",
+          "listIcon": "https://gw.alicdn.com/tfs/TB1eHavyAvoK1RjSZFDXXXY3pXa-90-90.png",
+          "title": "赞",
+          "key": "thumbUp"
+        }, {
+          "selected": "false",
+          "icon": "https://gw.alicdn.com/tfs/TB10dFlvCzqK1RjSZFHXXb3CpXa-90-90.png?getAvatar=avatar",
+          "selectIcon": "https://gw.alicdn.com/tfs/TB1H8FkvwTqK1RjSZPhXXXfOFXa-90-90.png?getAvatar=avatar",
+          "listIcon": "https://gw.alicdn.com/tfs/TB1H8FkvwTqK1RjSZPhXXXfOFXa-90-90.png?getAvatar=avatar",
+          "title": "买买买",
+          "key": "buy"
+        }, {
+          "selected": "false",
+          "icon": "https://gw.alicdn.com/tfs/TB1pct8xmzqK1RjSZPxXXc4tVXa-90-90.png?getAvatar=avatar",
+          "selectIcon": "https://gw.alicdn.com/tfs/TB1kTewxhnaK1RjSZFBXXcW7VXa-90-90.png?getAvatar=avatar",
+          "listIcon": "https://gw.alicdn.com/tfs/TB1pct8xmzqK1RjSZPxXXc4tVXa-90-90.png?getAvatar=avatar",
+          "title": "种个草",
+          "key": "longFor"
+        }, {
+          "selected": "false",
+          "icon": "https://gw.alicdn.com/tfs/TB10kVkvCzqK1RjSZFjXXblCFXa-90-90.png?getAvatar=avatar",
+          "selectIcon": "https://gw.alicdn.com/tfs/TB12pJnvAvoK1RjSZFNXXcxMVXa-90-90.png?getAvatar=avatar",
+          "listIcon": "https://gw.alicdn.com/tfs/TB12pJnvAvoK1RjSZFNXXcxMVXa-90-90.png?getAvatar=avatar",
+          "title": "震惊了",
+          "key": "shock"
+        }]
+      },
+      "bubbles": [{
+        "title": "帮我选",
+        "icon": "https://gw.alicdn.com/tfs/TB1NL9dvMDqK1RjSZSyXXaxEVXa-90-90.png?getAvatar=avatar",
+        "action": "https://market.m.taobao.com/app/bwx/bwx/pages/create?wh_weex=true&itemId=556280006448&itemPic=i3/725677994/O1CN01mvirdX28vIgPQ5fli_!!725677994-0-sm.jpg"
+      }]
+    },
+    "cuntao": {},
+    "askAll": {
+      "modelList": [{
+        "askText": "直接点加入购物车就有一箱吗，不能选",
+        "answerCountText": "3个回答"
+      }, {
+        "askText": "快递到的时候碎的多吗",
+        "answerCountText": "2个回答"
+      }],
+      "linkUrl": "//h5.m.taobao.com/wendajia/question2017.html?refId=556280006448",
+      "questNum": "77",
+      "showNum": "2",
+      "askIcon": "https://img.alicdn.com/tps/TB1tVU6PpXXXXXFaXXXXXXXXXXX-102-60.png",
+      "askText": "直接点加入购物车就有一箱吗，不能选",
+      "title": "问大家(77)"
+    },
+    "freshFood": {
+      "nationalFlag": "//g.alicdn.com/mui/flag-img/circle@2x/CN.png"
+    }
+  },
+  "delivery": {
+    "overseaContraBandFlag": "false",
+    "areaSell": "true",
+    "to": "东城区",
+    "showAreaChooser": "true",
+    "from": "北京",
+    "addressWeexUrl": "//market.m.taobao.com/apps/market/detailrax/address-picker.html?spm=a2116h.app.0.0.16d957e9nDYOzv&wh_weex=true",
+    "postage": "满88包邮(20kg内)",
+    "extras": {
+      "PostTime": {
+        "icon": "//img.alicdn.com/tfs/TB1No7XbvxNTKJjy0FjXXX6yVXa-145-28.png",
+        "text": "23:59前付款，预计6月6日送达",
+        "desc": "天猫保障的配送服务",
+        "serviceSimpleDesc": "天猫保障的配送服务"
+      },
+      "ReceiveTime": {
+        "icon": "//img.alicdn.com/tfs/TB1No7XbvxNTKJjy0FjXXX6yVXa-145-28.png",
+        "text": "23:59前付款，预计6月6日送达",
+        "desc": "天猫保障的配送服务",
+        "serviceSimpleDesc": "天猫保障的配送服务"
+      }
+    },
+    "areaId": "110101"
+  },
+  "skuCore": {
+    "skuItem": {
+      "hideQuantity": "false",
+      "showAddress": "true",
+      "location": "东城区"
+    },
+    "sku2info": {
+      "0": {
+        "price": {
+          "priceMoney": "1990",
+          "priceText": "19.9",
+          "showTitle": "false",
+          "sugProm": "false"
+        },
+        "quantity": "16741"
+      }
+    }
+  },
+  "skuVertical": {},
+  "params": {
+    "trackParams": {
+      "shop_id": "67597230",
+      "serverAbTest": "detail_main_video_test_base",
+      "layoutId": "2027",
+      "bizParams": "shopActivity_current,sanDanYouLi_current,interaction_bar_test,superMarket_current",
+      "detailabtestdetail": "10861_7981.9141_6146"
+    }
+  },
+  "traceDatas": {
+    "dinamic+TB_detail_ask_all_two_questions": {
+      "module": "tb_detail_ask_all_two_questions"
+    },
+    "dinamic+TB_detail_brand_info": {
+      "module": "tb_detail_brand_info"
+    },
+    "dinamic+TB_detail_endorsement": {
+      "module": "tb_detail_endorsement"
+    },
+    "dinamic+TB_detail_tip_presale": {
+      "module": "tb_detail_tip_presale"
+    },
+    "dinamic+TB_detail_subInfo_superMarket": {
+      "module": "tb_detail_subInfo_superMarket"
+    },
+    "dinamic+TB_detail_ask_all_no_question": {
+      "module": "tb_detail_ask_all_no_question"
+    },
+    "dinamic+TB_detail_kernel_params": {
+      "module": "tb_detail_kernel_params"
+    },
+    "dinamic_o2o+TB_detail_o2o": {
+      "module": "TB_detail_o2o"
+    },
+    "dinamic+TB_detail_subInfo_jhs_normal": {
+      "module": "tb_detail_subInfo_jhs_normal"
+    },
+    "dinamic+TB_detail_new_person_bag_banner": {
+      "module": "tb_detail_new_person_bag_banner"
+    },
+    "dinamic+TB_detail_title_tmallMarket": {
+      "module": "tb_detail_title_tmallMarket"
+    },
+    "dinamic+TB_detail_buyer_photo": {
+      "module": "tb_detail_buyer_photo"
+    },
+    "dinamic+TB_detail_subInfo_preSellForTaobaoB": {
+      "module": "tb_detail_subInfo_preSellForTaobaoB"
+    },
+    "dinamic+TB_detail_title_xinxuan": {
+      "module": "tb_detail_title_xinxuan"
+    },
+    "dinamic+TB_detail_subInfo_preSellForTaobaoC": {
+      "module": "tb_detail_subInfo_preSellForTaobaoC"
+    },
+    "dinamic+TB_detail_tmallfeature": {
+      "module": "tb_detail_tmallfeature"
+    },
+    "dinamic+TB_detail_sub_logistics": {
+      "module": "tb_detail_sub_logistics"
+    },
+    "dinamic+TB_detail_price_coupon": {
+      "module": "tb_detail_price_coupon"
+    },
+    "dinamic+TB_detail_coupon": {
+      "module": "tb_detail_coupon"
+    },
+    "dinamic+TB_detail_tip_presale2": {
+      "module": "tb_detail_tip_presale2"
+    },
+    "dinamic+TB_detail_tip_price": {
+      "module": "tb_detail_tip_price"
+    },
+    "dinamic+TB_detail_delivery": {
+      "module": "tb_detail_delivery"
+    },
+    "dinamic+TB_detail_ship_time": {
+      "module": "tb_detail_ship_time"
+    },
+    "dinamic+TB_detail_ask_all_aliMedical": {
+      "module": "tb_detail_ask_all_aliMedical"
+    },
+    "dinamic+TB_detail_priced_coupon": {
+      "module": "tb_detail_priced_coupon"
+    },
+    "dinamic+TB_detail_tax": {
+      "module": "tb_detail_tax"
+    },
+    "dinamic+TB_detail_comment_empty": {
+      "module": "tb_detail_comment_empty"
+    },
+    "dinamic+TB_detail_logistics": {
+      "module": "tb_detail_logistics"
+    }
+  },
+  "otherInfo": {
+    "bucketId": "6",
+    "systemTime": "1559742656272"
+  },
+  "extendedData": {},
+  "layout": {
+    "layoutId": "TB1CqubkY1YBuNjSszehA1blFXa",
+    "config": {
+      "dependComponentConfigID": "TB166Osa5IRMeJjy0FbhA2nqXXa",
+      "dependActionConfigID": "TB1CKiJk4WYBuNjy1zkhA0GGpXa",
+      "dependThemeConfigID": "TB1O1LwiCCWBuNjy0FhhA26EVXa"
+    },
+    "templateDBId": "2027"
+  },
+  "rate": {},
+  "modules": []
+}

@@ -1,0 +1,13 @@
+{
+  "busiCode": "BASE000",
+  "code": 1,
+  "content": {
+    "commonShopList": [],
+    "otherShopList": []
+  },
+  "handler": "CLIENT",
+  "msg": "成功",
+  "status": "SUCCESS",
+  "uid": "ade4b784-dd00-43e0-a812-72391bfc21331560842969634",
+  "version": "101"
+}

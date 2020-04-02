@@ -1,0 +1,26 @@
+# temp ignore
+*.csv
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+# system ignore
+.DS_Store
+Thumbs.db
+# package ignore (optional)
+# *.jar
+# *.war
+# *.zip
+# *.tar
+# *.tar.g
+
+# nodejs ignore
+node_modules/
+
+# eslint-cache
+.eslintcache
+.vscode/
+
+#lock ignore
+.yarn.lock

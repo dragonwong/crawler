@@ -1,0 +1,532 @@
+{
+  "seller": {
+    "enable": true,
+    "userId": 725677994,
+    "shopId": 67597230,
+    "shopName": "天猫超市",
+    "shopUrl": "//chaoshi.m.tmall.com",
+    "allProduct": null,
+    "shopIcon": "//img.alicdn.com/tps/i1/TB1ju5eKXXXXXXGXFXXTCU0QpXX-300-300.jpg",
+    "wwUrl": null,
+    "fans": null,
+    "certIcon": null,
+    "creditLevelIcon": "//img.alicdn.com/tfs/TB1KHCWnsLJ8KJjy0FnXXcFDpXa-198-36.png?getAvatar=avatar",
+    "allItemCount": 52447,
+    "newItemCount": null,
+    "rateSum": 1100147715,
+    "weitaoId": null,
+    "sellerType": "B",
+    "shopType": "B",
+    "evaluates": [{
+      "title": "宝贝描述",
+      "score": "4.9 ",
+      "type": "desc",
+      "level": "1"
+    }, {
+      "title": "卖家服务",
+      "score": "4.8 ",
+      "type": "serv",
+      "level": "1"
+    }, {
+      "title": "物流服务",
+      "score": "4.9 ",
+      "type": "post",
+      "level": "1"
+    }],
+    "sellerNick": "天猫超市",
+    "creditLevel": "20",
+    "tagIcon": null,
+    "shopTitleIcon": null,
+    "starts": "2011-06-28 14:48:53",
+    "goodRatePercentage": null,
+    "encryptSellerId": "UMGIbMCcuOFk0",
+    "certShopList": null
+  },
+  "item": {
+    "enable": true,
+    "itemId": 556280006448,
+    "title": "印尼进口Tango咔咔脆巧克力夹心威化饼干160g曲奇休闲网红零食",
+    "subtitle": "内含20包 香醇巧克力 酥脆脆米",
+    "images": ["//img.alicdn.com/imgextra/i3/725677994/O1CN01mvirdX28vIgPQ5fli_!!725677994-0-sm.jpg", "//img.alicdn.com/imgextra/i4/725677994/O1CN01QmEBVJ28vIgPGwWZo_!!725677994.jpg", "//img.alicdn.com/imgextra/i2/725677994/O1CN01HJU3v228vId1sXN8n_!!725677994.jpg", "//img.alicdn.com/imgextra/i4/725677994/O1CN01LbQzh928vId14oMh4_!!725677994.jpg", "//img.alicdn.com/imgextra/i4/725677994/TB2gC5ydkzoK1RjSZFlXXai4VXa_!!725677994.jpg"],
+    "videos": null,
+    "categoryId": "124308001",
+    "rootCategoryId": "50002766",
+    "brandValueId": "null",
+    "logo": null,
+    "skuText": null,
+    "standingDate": "0",
+    "storePacket": null,
+    "servItemExtend": null,
+    "carShipTime": null,
+    "commentCount": null,
+    "favcount": 130158,
+    "tmallDescUrl": "http://mdetail.tmall.com/templates/pages/desc?id=556280006448",
+    "taobaoPcDescUrl": null,
+    "moduleDescUrl": null,
+    "moduleDescParams": null,
+    "h5moduleDescUrl": null,
+    "titleIcon": null,
+    "themeType": null,
+    "slogon": null,
+    "extData": {
+      "addressLevel": 3
+    }
+  },
+  "trade": {
+    "enable": true,
+    "buyEnable": false,
+    "cartEnable": true,
+    "buyText": null,
+    "cartText": null,
+    "redirectUrl": null,
+    "waitForStart": null,
+    "startTime": null,
+    "buyParam": null,
+    "hintBanner": null,
+    "tradeConfig": {
+      "1": "//h5.m.taobao.com/awp/base/order.htm",
+      "2": "//buy.m.tmall.com/order/confirmOrderWap.htm"
+    },
+    "tradeParams": {
+      "buyNow": "true",
+      "_input_charset": "utf-8"
+    },
+    "useTrade30": true,
+    "useNativeTrade": false
+  },
+  "rate": {
+    "enable": true,
+    "totalCount": 496732,
+    "keywords": [{
+      "attribute": "420-11",
+      "word": "物流快",
+      "count": 3972,
+      "type": 1
+    }, {
+      "attribute": "520-11",
+      "word": "划算",
+      "count": 3420,
+      "type": 1
+    }, {
+      "attribute": "620-11",
+      "word": "质量很好",
+      "count": 2736,
+      "type": 1
+    }, {
+      "attribute": "3337-11",
+      "word": "味道不错",
+      "count": 1521,
+      "type": 1
+    }, {
+      "attribute": "1120-11",
+      "word": "人群",
+      "count": 1203,
+      "type": 1
+    }, {
+      "attribute": "3337-13",
+      "word": "味道一般",
+      "count": 224,
+      "type": -1
+    }],
+    "rateList": [{
+      "content": "从朋友那里听到了 【七五七】 这个 威信 ~供仲呺。只 用 了 1 半 的 价 格 就 买 到 了！！！非常划算~~收到了，包装确实很好，而且价格很实惠挺好的 天猫超市实惠质量非常好，与卖家描述的完全一致，非常满意,真的很喜欢，完全超出期望值，发货速度非常快,天猫超市购物很好！特别方便！价格也不错哦！",
+      "userName": "t**3",
+      "headPic": "//gtms03.alicdn.com/tps/i3/TB1yeWeIFXXXXX5XFXXuAZJYXXX-210-210.png_80x80.jpg",
+      "memberLevel": "4",
+      "userIcon": null,
+      "dateTime": "2019-05-28",
+      "skuInfo": null,
+      "images": null,
+      "tmallMemberLevel": 1,
+      "headExtraPic": "",
+      "memberIcon": "",
+      "isVip": "false"
+    }]
+  },
+  "tabBar": {
+    "enable": true,
+    "rateListTabEnable": true,
+    "propertyTabEnable": false
+  },
+  "mock": {
+    "enable": true,
+    "trade": {
+      "enable": true,
+      "buyEnable": true,
+      "cartEnable": true,
+      "buyText": null,
+      "cartText": null,
+      "redirectUrl": null,
+      "waitForStart": null,
+      "startTime": null,
+      "buyParam": null,
+      "hintBanner": null,
+      "tradeConfig": null,
+      "tradeParams": null,
+      "useTrade30": null,
+      "useNativeTrade": null
+    },
+    "price": {
+      "price": {
+        "priceMoney": null,
+        "priceText": "39.90",
+        "priceTitle": null,
+        "lineThrough": null
+      },
+      "extraPrices": null
+    },
+    "skuCore": {
+      "sku2info": {
+        "0": {
+          "price": {
+            "priceMoney": 3990,
+            "priceText": "39.90",
+            "priceTitle": "价格",
+            "lineThrough": null
+          },
+          "quantity": 100
+        }
+      },
+      "skuItem": {
+        "skuTitle": null,
+        "hideQuantity": true
+      }
+    },
+    "skuBase": null,
+    "delivery": {
+      "from": null,
+      "to": null,
+      "areaId": null,
+      "postage": null
+    },
+    "feature": {}
+  },
+  "skuBase": {
+    "enable": true,
+    "skus": null,
+    "props": null,
+    "components": null,
+    "skuExtra": {
+      "pickupPoints": null,
+      "tickets": null,
+      "enableDuration": null
+    }
+  },
+  "jumpUrl": {
+    "enable": true,
+    "apis": {
+      "barterUrl": "//suggest.taobao.com/sug?area=app_detail&nid=556280006448",
+      "skipEsi": "http://mdskip.m.tmall.com/mobile/queryH5Detail.htm",
+      "reqMemberUrl": "//vip.tmall.com/tm-member/superfans/index",
+      "cartUrl": "//h5.m.taobao.com/awp/base/cart.htm",
+      "addFavUrl": "//fav.m.tmall.com/to_collection.htm?xid=0db2&pds=addfav#h#detail&itemNumId=556280006448",
+      "statsUrl": "//go.mmstat.com/1.gif?logtype=2&category=cart_{loc}_124308001",
+      "reUrl": "//u.m.taobao.com/reg/newUser.htm?pds=reg%23h%23",
+      "memberShopUrl": "//vip.tmall.com/tm-member/superfans/index",
+      "rateUrl": "//rate.tmall.com/list_detail_rate.htm",
+      "propertyUrl": "//mdetail.tmall.com/mobile/itemPackage.do?itemId=556280006448",
+      "descUrl": "//dsc.taobaocdn.com/i3/550/280/556280006448/TB1WMlpXLWG3KVjSZPc8qvkbXla.desc%7Cvar%5Edesc%3Bsign%5Ec378f8271dcd824a0cc420a3c424efe7%3Blang%5Egbk%3Bt%5E1559318793",
+      "recommendUrl": "//aldcdn.tmall.com/recommend.htm?appId=03126&itemId=556280006448",
+      "loginUrl": "//login.tmall.com/?",
+      "newSelectCityApi": "//mdskip.taobao.com/json/detailSelectCity.do?isAreaSell=true&itemId=556280006448",
+      "myUrl": "//h5.m.taobao.com/my/index.htm#!myTaobao",
+      "httpsDescUrl": "//desc.alicdn.com/i3/550/280/556280006448/TB1WMlpXLWG3KVjSZPc8qvkbXla.desc%7Cvar%5Edesc%3Bsign%5Ec378f8271dcd824a0cc420a3c424efe7%3Blang%5Egbk%3Bt%5E1559318793",
+      "longTailUrl": "//aldcdn.tmall.com/recommend.htm ",
+      "logOutUrl": "//login.m.taobao.com/logout.htm?pds=logout%23h%23"
+    }
+  },
+  "modules": {
+    "enable": true,
+    "modules": [{
+      "key": "mods/module-preview/index",
+      "name": "商品主预览图",
+      "path": null,
+      "version": null,
+      "groupId": "1",
+      "data": {}
+    }, {
+      "key": "detail-mods/vip-banner/index",
+      "name": "超级会员banner",
+      "path": null,
+      "version": "4.0.2",
+      "groupId": "1",
+      "data": {}
+    }, {
+      "key": "mods/module-jhs/index",
+      "name": "聚划算信息",
+      "path": null,
+      "version": null,
+      "groupId": "1",
+      "data": {}
+    }, {
+      "key": "mods/module-focus/index",
+      "name": "大促氛围(主图处)",
+      "path": null,
+      "version": null,
+      "groupId": "1",
+      "data": {}
+    }, {
+      "key": "mods/module-price/index",
+      "name": "商品价格",
+      "path": null,
+      "version": null,
+      "groupId": "1",
+      "data": {}
+    }, {
+      "key": "mods/module-from/index",
+      "name": "来源地信息",
+      "path": null,
+      "version": null,
+      "groupId": "1",
+      "data": {}
+    }, {
+      "key": "mods/module-title/index",
+      "name": "商品标题",
+      "path": null,
+      "version": null,
+      "groupId": "1",
+      "data": {}
+    }, {
+      "key": "mods/module-adds/index",
+      "name": "快递信息发货地",
+      "path": null,
+      "version": null,
+      "groupId": "1",
+      "data": {}
+    }, {
+      "key": "mods/module-atmosphere/index",
+      "name": "大促氛围(物流信息处）",
+      "path": null,
+      "version": null,
+      "groupId": "1",
+      "data": {}
+    }, {
+      "key": "mods/module-coupon/index",
+      "name": "购物券信息",
+      "path": null,
+      "version": null,
+      "groupId": "4",
+      "data": {}
+    }, {
+      "key": "mods/module-prom/index",
+      "name": "优惠活动信息",
+      "path": null,
+      "version": null,
+      "groupId": "4",
+      "data": {}
+    }, {
+      "key": "mods/module-activity/index",
+      "name": "活动区块",
+      "path": null,
+      "version": null,
+      "groupId": "4",
+      "data": {}
+    }, {
+      "key": "mods/module-sku/index",
+      "name": "sku模块",
+      "path": null,
+      "version": null,
+      "groupId": "5",
+      "data": {}
+    }, {
+      "key": "mods/module-props/index",
+      "name": "产品参数",
+      "path": null,
+      "version": null,
+      "groupId": "5",
+      "data": {}
+    }, {
+      "key": "mods/module-related/index",
+      "name": "相关版本",
+      "path": null,
+      "version": null,
+      "groupId": "",
+      "data": {}
+    }, {
+      "key": "mods/module-review/index",
+      "name": "同步评价模块",
+      "path": null,
+      "version": null,
+      "groupId": "6",
+      "data": {}
+    }, {
+      "key": "mods/module-askall/index",
+      "name": "同步组件-问大家",
+      "path": null,
+      "version": null,
+      "groupId": "6",
+      "data": {}
+    }, {
+      "key": "mods/module-shop/index",
+      "name": "店铺模块",
+      "path": null,
+      "version": "",
+      "groupId": "7",
+      "data": {}
+    }, {
+      "key": "mods/module-desc/index",
+      "name": "图文详情",
+      "path": null,
+      "version": null,
+      "groupId": null,
+      "data": {}
+    }, {
+      "key": "mods/module-smartjump/index",
+      "name": "smartjump",
+      "path": null,
+      "version": "4.1.23",
+      "groupId": null,
+      "data": {}
+    }, {
+      "key": "mods/module-recommend-down/index",
+      "name": "下架商品推荐",
+      "path": null,
+      "version": null,
+      "groupId": null,
+      "data": {}
+    }, {
+      "key": "detail-mods/desc/index",
+      "name": "详情自定义模块",
+      "path": null,
+      "version": "4.0.1",
+      "groupId": "desc",
+      "data": {}
+    }]
+  },
+  "apiStack": null,
+  "props": {
+    "enable": true,
+    "groupProps": [{
+      "基本信息": [{
+        "品牌": "tango/奥朗探戈 "
+      }, {
+        "系列": "探戈咔咔脆威化饼干 "
+      }, {
+        "产地": "印尼 "
+      }, {
+        "包装方式": "包装 "
+      }, {
+        "是否进口": "进口 "
+      }, {
+        "净含量": "160g "
+      }, {
+        "厂名": "杭州丹奇贸易有限公司"
+      }, {
+        "厂址": "杭州市江干区九堡九环路9号"
+      }, {
+        "厂家联系方式": "0571-85831459"
+      }, {
+        "保质期": "394"
+      }]
+    }],
+    "propsList": null
+  },
+  "tags": {
+    "enable": true,
+    "tags": {
+      "isMemberShopItem": false,
+      "isBundleItem": false,
+      "canEditInItemDet": true,
+      "isAllowReport": true,
+      "isHiddenShopAction": false,
+      "useTrade30": true,
+      "isDownShelf": false,
+      "is0YuanBuy": false,
+      "isCarService": false,
+      "isChaoshi": true,
+      "isShowEcityBasicSign": false,
+      "isItemAllowSellerView": true,
+      "goNewAuctionFlow": false,
+      "isShowEcityVerticalSign": false,
+      "isHouseholdService": false,
+      "isSevenDaysRefundment": true,
+      "isVaccine": false,
+      "isHasPos": false,
+      "isAutoYushou": false,
+      "isOnePriceCar": false,
+      "isVitual3C": false,
+      "isFullCarSell": false,
+      "isHideAttentionBtn": false,
+      "isNABundleItem": false,
+      "showDiscountRecommend": false,
+      "enableAliMedicalComponent": true,
+      "isService": false,
+      "isOtcDrug": false,
+      "isYYZY": false,
+      "mlhNewDesc": false,
+      "isEnableAppleSku": true,
+      "isWTContract": false,
+      "isHkItem": false,
+      "isShowContentModuleTitle": false,
+      "isRx2Count": true,
+      "isAreaSell": true,
+      "isH5NewLogin": true,
+      "isHkO2OItem": false,
+      "isSavingEnergy": false,
+      "showFushiPoiInfo": false,
+      "isCustomizedItem": false,
+      "isMeiz": false,
+      "globalSellItem": false,
+      "isShowEcityDesc": false,
+      "isSkuColorShow": false,
+      "autoccUser": false,
+      "isMenDianInventroy": false,
+      "isMeilihui": false,
+      "isLadderGroupon": false,
+      "isHidePoi": false,
+      "isNewAttraction": true,
+      "isPreSellBrand": false,
+      "loginBeforeCart": false,
+      "isAutoFinancing": false,
+      "showSuperMarketBuy": false,
+      "isPrescriptionDrug": false,
+      "isTmallComboSupport": false,
+      "isIFCShop": false,
+      "isAlicomMasterCard": false,
+      "isCarCascade": false,
+      "isSkuMemorized": false,
+      "isRx2": false,
+      "isTeMai": false,
+      "allowRate": true,
+      "isShowPreClosed": false,
+      "isO2OStaging": false,
+      "isCloudShopItem": false,
+      "isPurchaseMallVipBuyer": false,
+      "cdn75": false,
+      "isNewMedical": false,
+      "isCarYuEBao": false,
+      "isCyclePurchase": false,
+      "isAliTelecomNew": false,
+      "show9sVideo": true,
+      "isHkDirectSale": false,
+      "tryReportDisable": false,
+      "isB2Byao": false,
+      "isRegionLevel": true,
+      "isContractPhoneItem": false,
+      "isYY": false,
+      "supermarketAndQianggou": false,
+      "isZhengChe": false,
+      "isDianZiMendian": false,
+      "isNextDayService": false,
+      "timeKillAuction": false
+    }
+  },
+  "traceDatas": {
+    "mods/module-prom/index": {
+      "module": "Promotion"
+    },
+    "mods/module-coupon/index": {
+      "module": "CouponInfo"
+    },
+    "mods/module-hko2o/index": {
+      "module": "hko2o"
+    },
+    "mods/module-title/index": {
+      "module": "title"
+    },
+    "mods/module-pintuan/index": {
+      "module": "pintuan"
+    }
+  },
+  "detailDesc": {}
+}
