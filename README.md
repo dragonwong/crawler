@@ -2,12 +2,6 @@
 
 > 好坏一爬虫
 
-每日优鲜商品数据抓取脚本
-
-## 运行原理
-
-根据位置，抓取每日优鲜小程序接口，抓取全部在售商品数据，生成 csv 文件。
-
 ## 安装依赖
 
 ```bash
@@ -16,9 +10,7 @@ npm install
 
 ## 抓取任务
 
-### 每日优鲜
-
-#### 目标
+### 每日优鲜 missfresh
 
 按指定地区抓取按销量排序的所有品类。
 
@@ -32,9 +24,7 @@ node missfresh/
 
 1. 数据存在相同sku在不同分类下的case
 
-### 天猫
-
-#### 目标
+### 天猫 ali
 
 按指定分类抓取按销量排序的所有品类。
 
@@ -44,9 +34,7 @@ node missfresh/
 node ali/
 ```
 
-### 天猫超市
-
-#### 目标
+### 天猫超市 ali/tmsmh5
 
 按销量排序抓取全部品类商品（受阿里防御影响，实际只能抓取分页前4页）。
 
@@ -59,9 +47,7 @@ node ali/tmsmh5/getCategory
 node ali/tmsmh5/
 ```
 
-### 小红书
-
-#### 目标
+### 小红书 xiaohongshu
 
 根据给定的关键词，按转发量排序抓取文章，给出文章标题和链接。关键词如下：
 
@@ -75,9 +61,7 @@ node ali/tmsmh5/
 node xiaohongshu/
 ```
 
-### 瑞幸
-
-#### 目标
+### 瑞幸 luckin
 
 获取瑞幸全部门店信息。
 
@@ -85,4 +69,12 @@ node xiaohongshu/
 
 ```bash
 node luckin/
+```
+
+### 联联 lianlian
+
+#### 启动
+
+```bash
+node lianlian/
 ```
